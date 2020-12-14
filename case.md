@@ -1,3 +1,10 @@
+## T accounts
+
+[https://docs.google.com/spreadsheets/d/1ryAIzvYHSRGek6tdQfgsizjzJE8sx7MdbPtgUJGP_Lw/edit#gid=0](https://docs.google.com/spreadsheets/d/1ryAIzvYHSRGek6tdQfgsizjzJE8sx7MdbPtgUJGP_Lw/edit#gid=0)
+
+## Case transactions
+
+
 (1) On April 1st, 2012, Girard decided to invest $200,000 and Park put up $50,000 To purchase a total of 25,000 shares in the new company. The par value of the shares was $1.
 
 
@@ -25,6 +32,10 @@
 (12) On June 30th Girard called from St. Tropez to check in on the business. Upon hearing that Relic Spotter only had $47,000 of cash left in the bank, Girard became concerned about his investment.
 
 Thinking fast, Park stated she was so confident of Relic Spotter's prospects that she was declaring a $0.10 per share dividend, to be paid on August 31. So that's $25,000. This dividend seemed to reassure Girard.
+
+(13) Relic Spotter opened for business on July 1, 2012, just in time for the big Independence Day weekend. On July 31st, Park paid the supplier the $2,000 it was owed.
+
+(14) On August 31st, Park paid the $2,500 dividend that had been declared in June.
 
 ## Book
 
@@ -100,4 +111,21 @@ Thinking fast, Park stated she was so confident of Relic Spotter's prospects tha
 ```
     6/30/12 Dr. Retained Earnings (-SE) 2500
               Cr. Dividends Payable (+L) 2500
+```
+
+(13)
+
+```
+
+7/31/12 Dr. Accounts Payable(+L) 2000
+          Cr. Cash (-A) 2000
+
+```
+
+(14)
+
+```
+  8/31/12 Dr. Dividends Payable (-L) 2500
+            Cr. Cash (-A) 2500
+
 ```
